@@ -7,4 +7,4 @@ I chose to do TASK 1 and have successfully completed it. I chose this task becau
 
 Thank you for creating this opportunity!
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/kunalsinha9/QOSF-Screening-Task/blob/master/VQE-Pennylane.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/rxhxt/-QOSF-Mentorship-Program-Screening-Task---Rohit-Nagotkar/blob/master/qosf_screening_task_1.ipynb)
